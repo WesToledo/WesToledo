@@ -1,7 +1,6 @@
 ### Hi there, I'm Wesley Toledo
 
 ## I'm a Brazilian, 22 Years Old and Self-Taught
-- 🌱 I'm looking for an internship in a big company
 - 👯 I'm wanting to create new projects and write new content
 - 🥅 2023 Goals: Learn more about Computer Vision / Software Development, Create new Projects
 
