@@ -2,10 +2,16 @@
 
 ## I'm a Brazilian, 23 Years Old and Self-Taught
 - 👯 I'm wanting to create new projects 
-- 🥅 2024 Goals: Learn more about Computer Vision / Software Development, Create new Projects
+- 🥅 2024 Goals: Learn more about Computer Vision
 
 ### Most Important Projects
 <a href="https://federalagenda.com.br/">Federal Agenda</a><br>
+<a href="https://github.com/WesToledo/scrapper-pdf">PDF WEB Scraper</a><br>
+<a href="https://github.com/WesToledo/doctor-scheduler">Doctor Scheduler</a><br>
+<a href="https://github.com/WesToledo/expression-system">Expression Transportadora</a><br>
+<a href="https://github.com/WesToledo/acessa-cast">Acessa Cast</a><br>
+
+
 
 ### Connect with me:
 
