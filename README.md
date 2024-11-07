@@ -1,8 +1,6 @@
 ### Hi there, I'm Wesley Toledo
 
 ## I'm a Brazilian, 23 Years Old and Self-Taught
-- 👯 I'm wanting to create new projects 
-- 🥅 2024 Goals: Learn more about Computer Vision
 
 ### Most Important Projects
 <a href="https://federalagenda.com.br/">Federal Agenda</a><br>
